@@ -1,7 +1,7 @@
 them word
 nguyen huy do
 conflict
-daaadsad
+daaa
 huy
 do
 nguyen
@@ -10,5 +10,4 @@ das
 sai
 xoa
 them
-java
 do 

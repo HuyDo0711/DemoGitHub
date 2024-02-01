@@ -8,4 +8,4 @@ nguyen
 sua
 sai
 xoa
-jav
+java
